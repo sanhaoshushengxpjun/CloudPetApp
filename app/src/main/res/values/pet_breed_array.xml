@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pet_breed_array">
+        <item>哈士奇</item>
+        <item>藏獒</item>
+        <item>贵宾</item>
+        <item>松狮</item>
+        <item>边牧</item>
+        <item>吉娃娃</item>
+        <item>德牧</item>
+        <item>秋田</item>
+        <item>蝴蝶犬</item>
+        <item>博美</item>
+        <item>杜宾</item>
+        <item>柴犬</item>
+        <item>阿拉斯加</item>
+        <item>卡斯罗</item>
+        <item>巴哥</item>
+        <item>---</item>
+        <item>布偶猫</item>
+        <item>苏格兰折耳</item>
+        <item>英短</item>
+        <item>波斯猫</item>
+        <item>蓝猫</item>
+        <item>短毛猫</item>
+        <item>挪威森林猫</item>
+        <item>孟买猫</item>
+        <item>狸花猫</item>
+    </string-array>
+</resources>

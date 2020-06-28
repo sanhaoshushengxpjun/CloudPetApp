@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_mypet"
+        android:icon="@drawable/ic_mypet"
+        android:title="@string/title_mypet" />
+
+    <item
+        android:id="@+id/navigation_pet_community"
+        android:icon="@drawable/ic_community"
+        android:title="@string/title_pet_community" />
+
+    <item
+        android:id="@+id/navigation_shopping"
+        android:icon="@drawable/ic_shopping"
+        android:title="@string/title_shopping" />
+
+
+
+
+</menu>
